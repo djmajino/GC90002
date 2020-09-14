@@ -1,4 +1,4 @@
-__meteor_runtime_config__ = {
+<script>__meteor_runtime_config__ = {
    "meteorRelease":"0.7.0.1",
    "PUBLIC_SETTINGS":{
       "ga":{
@@ -8,4 +8,4 @@ __meteor_runtime_config__ = {
    "ROOT_URL":"http://threesjs.com",
    "ROOT_URL_PATH_PREFIX":"",
    "autoupdateVersion":"3b8e7eadc8a69b46ebe486164ae87b351205ee07"
-};
+};</script>
